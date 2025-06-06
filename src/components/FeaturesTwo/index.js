@@ -24,6 +24,8 @@ import MKBox from "components/MKBox";
 import DefaultInfoCard from "components/Cards/InfoCards/DefaultInfoCard";
 import CenteredBlogCard from "components/Cards/BlogCards/CenteredBlogCard";
 
+import githubImage from "assets/images/github.jpg"
+
 function FeaturesTwo() {
   return (
     <MKBox component="section" py={12}>
@@ -36,7 +38,7 @@ function FeaturesTwo() {
                   <DefaultInfoCard
                     icon="computer"
                     title="Multi-platform development"
-                    description="I've learned, developed and maintained projects across a multitude of frameworks, programming languages, and device platforms"
+                    description="I've learned, developed and maintained projects across a multitude of frameworks, programming languages, and device platforms."
                   />
 
                 </MKBox>
@@ -46,7 +48,7 @@ function FeaturesTwo() {
                   <DefaultInfoCard
                     icon="public"
                     title="Fully distributed"
-                    description="I've worked on several projects creating and managing distributed databases"
+                    description="I've worked on several projects creating and managing distributed databases."
                   />
                 </MKBox>
               </Grid>
@@ -55,7 +57,7 @@ function FeaturesTwo() {
                   <DefaultInfoCard
                     icon="apps"
                     title="Clean & scalable"
-                    description="I specialize in writing functional, clean, and ultimately scalable code, with an emphasis on leaving room for improvement, iteration, or change"
+                    description="I specialize in writing functional, clean, and ultimately scalable code, with an emphasis on leaving room for improvement, iteration, or change."
                   />
                 </MKBox>
               </Grid>
@@ -64,7 +66,7 @@ function FeaturesTwo() {
                   <DefaultInfoCard
                     icon="3p"
                     title="Team leadership"
-                    description="More often than not, I tend to take the lead on my projects, assigning team roles and managing project goals"
+                    description="More often than not, I tend to take the lead on my projects, assigning team roles and managing project goals."
                   />
                 </MKBox>
               </Grid>
@@ -72,7 +74,7 @@ function FeaturesTwo() {
           </Grid>
           <Grid item xs={12} lg={4} sx={{ ml: "auto", mt: { xs: 3, lg: 0 } }}>
             <CenteredBlogCard
-              image="https://images.unsplash.com/photo-1544717302-de2939b7ef71?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+              image={githubImage}
               title="See More Projects"
               description="Visit my GitHub if you'd like to take a peek at the source code of any of the projects mentioned below, or explore my other projects."
               action={{
