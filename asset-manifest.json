@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Professional-Portfolio/static/css/main.cd722348.css",
+    "main.js": "/Professional-Portfolio/static/js/main.f1aef3f7.js",
+    "static/js/488.dd1b4e47.chunk.js": "/Professional-Portfolio/static/js/488.dd1b4e47.chunk.js",
+    "static/media/github.jpg": "/Professional-Portfolio/static/media/github.3b5d9aae2d6b49479044.jpg",
+    "static/media/ian-estevez.jpg": "/Professional-Portfolio/static/media/ian-estevez.240b75eaf70675433e6d.jpg",
+    "static/media/landing-bg.jpg": "/Professional-Portfolio/static/media/landing-bg.927f4e3252914c1113d6.jpg",
+    "static/media/software-dev.jpg": "/Professional-Portfolio/static/media/software-dev.defd031528ed50c63a97.jpg",
+    "static/media/contact.jpg": "/Professional-Portfolio/static/media/contact.7d1a60b1293f1e6c7264.jpg",
+    "static/media/dashboard-bg.jpg": "/Professional-Portfolio/static/media/dashboard-bg.e38091488e4658499b87.jpg",
+    "static/media/imm.jpg": "/Professional-Portfolio/static/media/imm.b712c205122bb473f0bd.jpg",
+    "static/media/carfinder.jpg": "/Professional-Portfolio/static/media/carfinder.c2b20d35184f86e362a5.jpg",
+    "static/media/groupay.jpg": "/Professional-Portfolio/static/media/groupay.dd06fdb755f1dc973846.jpg",
+    "static/media/forecast-bg.jpg": "/Professional-Portfolio/static/media/forecast-bg.11701f26ce197fcd8552.jpg",
+    "index.html": "/Professional-Portfolio/index.html",
+    "main.cd722348.css.map": "/Professional-Portfolio/static/css/main.cd722348.css.map",
+    "main.f1aef3f7.js.map": "/Professional-Portfolio/static/js/main.f1aef3f7.js.map",
+    "488.dd1b4e47.chunk.js.map": "/Professional-Portfolio/static/js/488.dd1b4e47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd722348.css",
+    "static/js/main.f1aef3f7.js"
+  ]
+}
